@@ -42,6 +42,6 @@ console.log(main,secondary);
  //đây là các giá trị mặc định 
  const[p, q,r] =[8, 9];
  console.log(p, q, r);
-
+ 
 
 
